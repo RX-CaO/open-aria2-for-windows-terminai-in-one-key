@@ -15,5 +15,5 @@
 # 程序入口为 bat 或快捷方式（lnk）
 
 # 相关项目
-https://github.com/aria2/aria2
+https://github.com/aria2/aria2  
 https://github.com/P3TERX/aria2.conf
